@@ -1,0 +1,9 @@
+{
+  "name": "GuardianUSD",
+  "symbol": "GUSD",
+  "decimals": 18,
+  "contract": "0x0ed0f0f4E7d13AE2A7072c10692AFfeD421b1B47",
+  "description": "Stablecoin GuardianUSD",
+  "website": "https://example.com",
+  "explorer": "https://bscscan.com/token/0x0ed0f0f4E7d13AE2A7072c10692AFfeD421b1B47"
+}
